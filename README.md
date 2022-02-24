@@ -14,6 +14,11 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="PyQt" src="https://img.shields.io/badge/-PyQt-43853d?style=flat-square&logo=PyQt&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43853d?style=flat-square&logo=Selenium&logoColor=white" />
 </p>
 
 ### GitHub Stats:
