@@ -27,7 +27,7 @@
 
 ### GitHub Stats:
 
-![mohammadalnajar's states](https://github-readme-stats.vercel.app/api?username=musafir928&count_private=true&show_icons=true&theme=algolia&hide_border=true)
+![musafir928's states](https://github-readme-stats.vercel.app/api?username=musafir928&count_private=true&show_icons=true&theme=algolia&hide_border=true)
 
 ### Current streak:
 
