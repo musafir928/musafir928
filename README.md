@@ -1,5 +1,5 @@
 <h1>Hey!</h1>
-<a href="adilablimit.com"><img alt="React" src="https://img.shields.io/badge/link-portfolio-blueviolet?style=flat-square&logo=react&logoColor=white" /></a>
+<a href="http://adilablimit.com"><img alt="React" src="https://img.shields.io/badge/link-portfolio-blueviolet?style=flat-square&logo=react&logoColor=white" /></a>
 
 
 <h3>Things I code with</h3>
